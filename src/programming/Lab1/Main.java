@@ -1,47 +1,46 @@
 import static java.lang.Math.*;
 
 public class Main {
-    public static void main(String[] args){
-        short[] c = new short[14]; //Объявление и инициализация массивов
-        float[] x = new float[20];
-        double[][] k = new double[14][20];
+    public static void main(String[] args) {
 
-        for (int i = 0; i < 14; i++) {
-            c[i]=(short)(i+2);
-        }
-        for (int j = 0; j < 20; j++) {
-            x[j] =(float) (random()*7.0-2.0);
+        long [] y = new long[14];
+
+        for( int i = 0; i<y.length;i++){
+            y[i] = 19 - i;
+
         }
 
-        for(int i = 0; i < 14; i++) {
-            for(int j = 0; j < 20; j++) {
-                if(c[i] == 4) {
-                    k[i][j]=sin(pow(log(abs(x[j])),(((double)3/4)/log(abs(x[j])))));
-                }
-                else if (c[i] == 3 ||
-                        c[i] == 5 ||
-                        c[i] == 7 ||
-                        c[i] == 8 ||
-                        c[i] == 10 ||
-                        c[i] == 13 ||
-                        c[i] == 14) {
-                    k[i][j]=pow(exp(1),(pow(pow(x[j]/3,2)-1,3)));
-                }
-                else{
-                    k[i][j]=pow(exp(1),asin(pow(exp(1),pow(-1*(PI/2*(abs(x[j]))),x[j]/3))));
+        double [] x = new double[10];
+
+        for (int j = 0; j<x.length; j++){
+            x[j] = (double) (Math.random() *(4.0 - (-8.0)) +(-8.0));
+        }
+
+
+        double[][] p = new double[14][10];
+        int [] z = {8, 10, 11, 14, 17, 18, 19};
+
+        for( int i = 0;i<14;i++){
+            for ( int j = 0;j<10; j++){
+                for(int k = 0; k < z.length;k++ ){
+                    if (y[i] == 16){
+                        p[i][j] = cbrt(cbrt(pow((3/4 * x[j]),3)));
+                    } else if( y[i] == z[k] ) {
+                        p[i][j] = cbrt(pow(exp(x[j]/2),2));
+                    }else {
+                        p[i][j] = pow(0.25/(log1p(pow(sin(log1p(abs(x[j]))),2))),(pow(pow(sin(x[j]),2),(cbrt(x[j])*(log1p(abs(x[j]))-1))/(0.5+log1p(exp(x[j]))) )));
+                    }
                 }
             }
         }
-        for(int i = 0; i < 14; i++) {
-            for(int j = 0; j < 20; j++) {
-                System.out.printf("%10.5f |", k[i][j]);
-                System.out.print("");
+
+        for( int i = 0;i<14;i++) {
+            for (int j = 0; j < 10; j++) {
+                System.out.printf("%10.2f |",p[i][j]);
+                System.out.print(" ");
             }
+
             System.out.println();
         }
-
     }
 }
-
-
-
