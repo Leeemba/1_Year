@@ -11,7 +11,7 @@
 ## First semester
 
 - [1 лабораторная](https://github.com/Leeemba/1_Year/tree/main/src/programming/Lab1)
-- 2 лабораторная(ссылка будет добавлена позже)
+- [2 лабораторная](src/programming/lab2)
 - 3-4 лабораторная(ссылка будет добавлена позже)
   
 ## Second semester
