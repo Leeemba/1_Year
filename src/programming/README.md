@@ -12,7 +12,7 @@
 
 - [1 лабораторная](./Lab1)
 - [2 лабораторная](./lab2/Main.java)
-- [3-4 лабораторная](./lb3/Main.java)
+- [3-4 лабораторная](lab3/Main.java)
   
 ## Second semester
 
