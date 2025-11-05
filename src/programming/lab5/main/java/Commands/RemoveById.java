@@ -7,8 +7,6 @@ import Exceptions.NotFoundException;
 import Exceptions.WrongAmountOfArgsException;
 import Managers.CollectionManager;
 
-import java.util.NoSuchElementException;
-
 public class RemoveById  extends  Command{
     private final CollectionManager collectionManager;
     private final Console console;

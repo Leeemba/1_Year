@@ -1,7 +1,5 @@
 package ConsoleOperations.Bin;
 
-import ConsoleOperations.Bin.UserInput;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;

@@ -4,11 +4,7 @@ import ConsoleOperations.Console;
 import Exceptions.EmptyCollectionException;
 import Exceptions.WrongAmountOfArgsException;
 import Managers.CollectionManager;
-import Models.Organization;
 
-import java.util.Map;
-
-import static java.util.stream.Collectors.counting;
 import static java.util.stream.Collectors.groupingBy;
 
 public class GroupByFullName extends  Command{

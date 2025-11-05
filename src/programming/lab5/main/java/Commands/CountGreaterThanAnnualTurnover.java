@@ -5,8 +5,6 @@ import ConsoleOperations.ConsoleFormat;
 import Exceptions.WrongAmountOfArgsException;
 import Managers.CollectionManager;
 
-import java.util.Objects;
-
 public class CountGreaterThanAnnualTurnover extends  Command{
     private final Console console;
     private final CollectionManager collectionManager;
