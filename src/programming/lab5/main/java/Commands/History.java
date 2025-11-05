@@ -6,8 +6,6 @@ import ConsoleOperations.Hint;
 import Exceptions.WrongAmountOfArgsException;
 import Managers.CommandManager;
 
-import java.util.Queue;
-
 public class History extends Command{
     private final Console console;
     private final CommandManager commandManager;

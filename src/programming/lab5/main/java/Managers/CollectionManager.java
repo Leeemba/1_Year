@@ -3,7 +3,6 @@ package Managers;
 import ConsoleOperations.Console;
 import Exceptions.ExitPoint;
 import Exceptions.InvalidFormException;
-import Exceptions.NotFoundException;
 import Models.Organization;
 
 import java.time.LocalDateTime;

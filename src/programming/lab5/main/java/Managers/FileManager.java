@@ -1,7 +1,5 @@
 package Managers;
 import ConsoleOperations.*;
-import ConsoleOperations.Bin.ConsoleInput;
-import ConsoleOperations.Bin.UserInput;
 import ConsoleOperations.Console;
 import Exceptions.ExitPoint;
 import Managers.Converter.CompactQueueConverter;
@@ -15,8 +13,6 @@ import com.thoughtworks.xstream.security.AnyTypePermission;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayDeque;
-import java.util.Collections;
-import java.util.Scanner;
 
 public class FileManager {
     private String text;

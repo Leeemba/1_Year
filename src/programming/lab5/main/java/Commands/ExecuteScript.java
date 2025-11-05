@@ -2,14 +2,9 @@ package Commands;
 
 import ConsoleOperations.Console;
 import ConsoleOperations.ConsoleFormat;
-import ConsoleOperations.Bin.ScriptMode;
 import Exceptions.*;
 import Managers.CommandManager;
 import Managers.RuntimeManager;
-
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.util.Locale;
 
 
 public class ExecuteScript extends Command{

@@ -5,7 +5,6 @@ import ConsoleOperations.ConsoleFormat;
 
 import Exceptions.WrongAmountOfArgsException;
 import Managers.CollectionManager;
-import Managers.FileManager;
 
 public class Save extends Command{
     private final Console console;

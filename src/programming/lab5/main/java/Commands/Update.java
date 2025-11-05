@@ -6,8 +6,6 @@ import Exceptions.*;
 import Managers.CollectionManager;
 import Models.Forms.OrganizationForm;
 
-import java.util.NoSuchElementException;
-
 public class Update extends Command {
     private final CollectionManager collectionManager;
     private final Console console;
