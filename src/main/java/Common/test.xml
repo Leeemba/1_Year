@@ -1,0 +1,122 @@
+<Collection>
+  <Organization>
+    <id>1</id>
+    <name>test1</name>
+    <coordinates>
+      <x>21</x>
+      <y>21.0</y>
+    </coordinates>
+    <creationDate>2025-10-05</creationDate>
+    <annualTurnover>21</annualTurnover>
+    <fullName>test1 corp.</fullName>
+    <type>PUBLIC</type>
+    <postalAddress>
+      <zipCode>JJK is the best Anime</zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>2</id>
+    <name>test2</name>
+    <coordinates>
+      <x>32</x>
+      <y>32.0</y>
+    </coordinates>
+    <creationDate>2025-10-16</creationDate>
+    <annualTurnover>321</annualTurnover>
+    <fullName>test2 corp.</fullName>
+    <type>GOVERNMENT</type>
+    <postalAddress>
+      <zipCode>LABUBU St. </zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>3</id>
+    <name>test3</name>
+    <coordinates>
+      <x>43</x>
+      <y>43.0</y>
+    </coordinates>
+    <creationDate>2025-10-16</creationDate>
+    <annualTurnover>4321</annualTurnover>
+    <fullName>test3.corp</fullName>
+    <type>PUBLIC</type>
+    <postalAddress>
+      <zipCode>IronMan st. 123</zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>4</id>
+    <name>test4</name>
+    <coordinates>
+      <x>54</x>
+      <y>54.0</y>
+    </coordinates>
+    <creationDate>2025-10-16</creationDate>
+    <annualTurnover>54321</annualTurnover>
+    <fullName>test4 corp.</fullName>
+    <type>TRUST</type>
+    <postalAddress>
+      <zipCode>Downing st. 26</zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>5</id>
+    <name>test5</name>
+    <coordinates>
+      <x>65</x>
+      <y>65.0</y>
+    </coordinates>
+    <creationDate>2025-10-16</creationDate>
+    <annualTurnover>654321</annualTurnover>
+    <fullName>test5 corp.</fullName>
+    <type>GOVERNMENT</type>
+    <postalAddress>
+      <zipCode>OSV PRIMITE LABU^ ^</zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>6</id>
+    <name>test6</name>
+    <coordinates>
+      <x>76</x>
+      <y>76.0</y>
+    </coordinates>
+    <creationDate>2025-10-16</creationDate>
+    <annualTurnover>7654321</annualTurnover>
+    <fullName>test6 corp.</fullName>
+    <type>PUBLIC</type>
+    <postalAddress>
+      <zipCode>AS WE CAN</zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>7</id>
+    <name>1</name>
+    <coordinates>
+      <x>1</x>
+      <y>1.0</y>
+    </coordinates>
+    <creationDate>2025-10-17</creationDate>
+    <annualTurnover>1</annualTurnover>
+    <fullName>1</fullName>
+    <type>GOVERNMENT</type>
+    <postalAddress>
+      <zipCode>1</zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>8</id>
+    <name>2</name>
+    <coordinates>
+      <x>2</x>
+      <y>2.0</y>
+    </coordinates>
+    <creationDate>2025-10-17</creationDate>
+    <annualTurnover>2</annualTurnover>
+    <fullName>2</fullName>
+    <type>TRUST</type>
+    <postalAddress>
+      <zipCode>2</zipCode>
+    </postalAddress>
+  </Organization>
+</Collection>
