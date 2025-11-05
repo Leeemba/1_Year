@@ -1,0 +1,77 @@
+<Collection>
+  <Organization>
+    <id>1</id>
+    <name>test1</name>
+    <coordinates>
+      <x>21</x>
+      <y>21.0</y>
+    </coordinates>
+    <creationDate>2025-10-05</creationDate>
+    <annualTurnover>321</annualTurnover>
+    <fullName>test1 corp.</fullName>
+    <type>PUBLIC</type>
+    <postalAddress>
+      <zipCode>JJK is the best Anime</zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>2</id>
+    <name>test2</name>
+    <coordinates>
+      <x>32</x>
+      <y>32.0</y>
+    </coordinates>
+    <creationDate>2025-10-05</creationDate>
+    <annualTurnover>432</annualTurnover>
+    <fullName>test2 corp.</fullName>
+    <type>TRUST</type>
+    <postalAddress>
+      <zipCode>werf</zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>3</id>
+    <name>test3</name>
+    <coordinates>
+      <x>43</x>
+      <y>43.0</y>
+    </coordinates>
+    <creationDate>2025-10-05</creationDate>
+    <annualTurnover>543</annualTurnover>
+    <fullName>test3 corp.</fullName>
+    <type>GOVERNMENT</type>
+    <postalAddress>
+      <zipCode>rfe</zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>4</id>
+    <name>test4</name>
+    <coordinates>
+      <x>54</x>
+      <y>54.0</y>
+    </coordinates>
+    <creationDate>2025-10-05</creationDate>
+    <annualTurnover>5432</annualTurnover>
+    <fullName>test4 corp.</fullName>
+    <type>PUBLIC</type>
+    <postalAddress>
+      <zipCode>frvnoe</zipCode>
+    </postalAddress>
+  </Organization>
+  <Organization>
+    <id>5</id>
+    <name>test5</name>
+    <coordinates>
+      <x>65</x>
+      <y>65.0</y>
+    </coordinates>
+    <creationDate>2025-10-05</creationDate>
+    <annualTurnover>6543</annualTurnover>
+    <fullName>test5 corp.</fullName>
+    <type>GOVERNMENT</type>
+    <postalAddress>
+      <zipCode>erjnicn</zipCode>
+    </postalAddress>
+  </Organization>
+</Collection>
