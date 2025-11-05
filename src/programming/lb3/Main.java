@@ -1,13 +1,13 @@
-package programming;
+package programming.lb3;
 
-import programming.Enums.Action;
-import programming.Humans.*;
-import programming.Sentence.Sentence;
-import programming.Items.*;
+import programming.lb3.Enums.Action;
+import programming.lb3.Humans.*;
+import programming.lb3.Sentence.Sentence;
+import programming.lb3.Items.*;
 
 
-import programming.Enums.Numbers;
-import programming.Places.*;
+import programming.lb3.Enums.Numbers;
+import programming.lb3.Places.*;
 
 
 public class Main {

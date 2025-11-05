@@ -1,6 +1,6 @@
-package programming.Places;
+package programming.lb3.Places;
 
-import programming.Humans.Human;
+import programming.lb3.Humans.Human;
 
 import java.util.ArrayList;
 import java.util.Arrays;
