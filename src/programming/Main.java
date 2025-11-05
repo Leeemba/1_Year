@@ -1,11 +1,13 @@
-import Enums.Action;
-import Humans.*;
-import Sentence.Sentence;
-import Items.*;
+package programming;
+
+import programming.Enums.Action;
+import programming.Humans.*;
+import programming.Sentence.Sentence;
+import programming.Items.*;
 
 
-import Enums.Numbers;
-import Places.*;
+import programming.Enums.Numbers;
+import programming.Places.*;
 
 
 public class Main {

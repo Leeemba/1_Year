@@ -1,4 +1,4 @@
-package Enums;
+package programming.Enums;
 
 public enum Action {
     MAKEMEETING("начать заседание акционерного общества"),

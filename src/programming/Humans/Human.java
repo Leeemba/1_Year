@@ -1,13 +1,7 @@
-package Humans;
+package programming.Humans;
 
-import Enums.Action;
-import Interfaces.SentenceBrace;
-import Places.Place;
-
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Locale;
+import programming.Enums.Action;
+import programming.Places.Place;
 
 public  abstract class Human  {
     private final String name;

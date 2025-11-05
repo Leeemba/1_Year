@@ -1,6 +1,6 @@
-package Sentence;
+package programming.Sentence;
 
-import Interfaces.SentenceBrace;
+import programming.Interfaces.SentenceBrace;
 
 import java.io.IOException;
 

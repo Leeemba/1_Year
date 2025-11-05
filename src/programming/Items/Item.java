@@ -1,7 +1,7 @@
-package Items;
+package programming.Items;
 
-import Enums.Numbers;
-import Interfaces.*;
+import programming.Enums.Numbers;
+import programming.Interfaces.*;
 
 
 import java.util.*;

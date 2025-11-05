@@ -1,9 +1,4 @@
-package Places;
-
-import Humans.Human;
-import Items.Item;
-
-import java.util.List;
+package programming.Places;
 
 public abstract class Place {
 

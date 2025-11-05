@@ -1,4 +1,4 @@
-package Enums;
+package programming.Enums;
 
 public enum Valuable {
     BILLION("миллиард"),
