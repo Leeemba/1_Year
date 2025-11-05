@@ -1,4 +1,4 @@
-package programming.Humans;
+package programming.lb3.Humans;
 
 public class Miga extends Human{
 

@@ -1,7 +1,7 @@
-package programming.Items;
+package programming.lb3.Items;
 
-import programming.Enums.Numbers;
-import programming.Enums.Valuable;
+import programming.lb3.Enums.Numbers;
+import programming.lb3.Enums.Valuable;
 
 public class Share extends Item {
 

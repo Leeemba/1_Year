@@ -1,7 +1,7 @@
-package programming.Humans;
+package programming.lb3.Humans;
 
-import programming.Enums.Action;
-import programming.Places.Place;
+import programming.lb3.Enums.Action;
+import programming.lb3.Places.Place;
 
 public  abstract class Human  {
     private final String name;

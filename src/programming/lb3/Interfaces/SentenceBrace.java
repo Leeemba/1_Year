@@ -1,4 +1,4 @@
-package programming.Interfaces;
+package programming.lb3.Interfaces;
 
 public interface SentenceBrace {
     public void capitalized(String str);

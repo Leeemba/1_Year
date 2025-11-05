@@ -1,4 +1,4 @@
-package programming.Places;
+package programming.lb3.Places;
 
 public abstract class Place {
 

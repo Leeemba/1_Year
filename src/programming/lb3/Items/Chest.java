@@ -1,4 +1,4 @@
-package programming.Items;
+package programming.lb3.Items;
 
 import java.util.ArrayList;
 import java.util.Arrays;

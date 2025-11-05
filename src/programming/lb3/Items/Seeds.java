@@ -1,6 +1,6 @@
-package programming.Items;
+package programming.lb3.Items;
 
-import programming.Enums.Numbers;
+import programming.lb3.Enums.Numbers;
 
 public record Seeds(String name, boolean isDelivered) {
 
