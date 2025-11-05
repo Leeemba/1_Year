@@ -11,6 +11,11 @@ target/
 *.iws
 *.iml
 *.ipr
+fileManager.txt
+fileManagerV2
+failure.xml
+failure
+recursion
 
 ### Eclipse ###
 .apt_generated
