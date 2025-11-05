@@ -12,7 +12,7 @@
 
 - [1 лабораторная](https://github.com/Leeemba/1_Year/tree/main/src/programming/Lab1)
 - [2 лабораторная](src/programming/lab2/Main.java)
-- 3-4 лабораторная(src/programming/lb3/Main.java)
+- [3-4 лабораторная](src/programming/lb3/Main.java)
   
 ## Second semester
 
