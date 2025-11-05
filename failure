@@ -1,8 +1,0 @@
-help
-show
-remove_by_id 2
-show
-remove_by_id 10
-1
-show
-clear
