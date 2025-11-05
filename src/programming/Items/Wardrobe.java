@@ -1,4 +1,4 @@
-package Items;
+package programming.Items;
 
 public class Wardrobe  extends  Item{
 

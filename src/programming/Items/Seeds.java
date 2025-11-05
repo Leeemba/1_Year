@@ -1,6 +1,6 @@
-package Items;
+package programming.Items;
 
-import Enums.Numbers;
+import programming.Enums.Numbers;
 
 public record Seeds(String name, boolean isDelivered) {
 

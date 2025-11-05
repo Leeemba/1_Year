@@ -1,7 +1,7 @@
-package Items;
+package programming.Items;
 
-import Enums.Numbers;
-import Enums.Valuable;
+import programming.Enums.Numbers;
+import programming.Enums.Valuable;
 
 public class Share extends Item {
 

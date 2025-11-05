@@ -1,7 +1,7 @@
-package Places;
-import Interfaces.Comparing;
-import Items.Item;
-import Enums.Numbers;
+package programming.Places;
+import programming.Interfaces.Comparing;
+import programming.Items.Item;
+import programming.Enums.Numbers;
 import java.util.*;
 
 
