@@ -10,9 +10,9 @@
 
 ## First semester
 
-- [1 лабораторная](src/programming/Lab1)
-- [2 лабораторная](src/programming/lab2/Main.java)
-- [3-4 лабораторная](src/programming/lb3/Main.java)
+- [1 лабораторная](./Lab1)
+- [2 лабораторная](./lab2/Main.java)
+- [3-4 лабораторная](./lb3/Main.java)
   
 ## Second semester
 
