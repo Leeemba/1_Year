@@ -6,7 +6,7 @@
 - [Программирование](src/programming)
 - [Основы профессиональной деятельности](src/Opd/First_Sem)
 - [Дискретная математика](src/Discrete_math/first_semester)
-- [Математический анализ](src/Math_ analysis)
+
   
 ## Второй семестр
 - [Программирование](src/programming)
