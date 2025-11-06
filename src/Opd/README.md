@@ -12,6 +12,6 @@
 
 ## Второй семестр
 - [лабораторная 3](./Sec_semester/Otchet_OPD3.pdf)
-- [лабораторная 4](с./Sec_semester/Otchet_OPD4.pdf)
+- [лабораторная 4](./Sec_semester/Otchet_OPD4.pdf)
 - [лабораторная 5](./Sec_semester/1.2_Baukin_Opd5.pdf)
 - [лабораторная 6](./Sec_semester/1.2_Baukin_OPD6.pdf)
