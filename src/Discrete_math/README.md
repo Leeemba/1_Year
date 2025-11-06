@@ -8,11 +8,11 @@
 
 
 ## First_sem:
-- домашние работы
-- курсовая
+- [домашние работы](./first_semester/HWs)
+- [курсовая](./first_semester/CourW)
 
 ## Second_sem:
-- домашние работы
-- курсовая
+- [домашние работы](./second_semester/HWs)
+- [курсовая](./second_semester/CourW)
 
   
