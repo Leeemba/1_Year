@@ -14,4 +14,4 @@
 - [Базы данных](src/DataBase)
 - [Основы профессиональной деятельности](src/Opd/Sec_semester)
 - Математический анализ (ссылка будет добавлена позже)
-- [Дискретная математика](src/Discrete_math/second_semsester)
+- [Дискретная математика](src/Discrete_math/second_semester)
