@@ -7,8 +7,8 @@ import java.sql.SQLException;
 
 public class DatabaseHandler {
     private static final String URL = "jdbc:postgresql://localhost:9090/studs";
-    private static final String USER = "REMOVED";   //System.getenv("PG_USER");
-    private static final String PASS = "REMOVED";   //System.getenv("PG_PASS");
+    private static final String USER = "s******";   
+    private static final String PASS = "**********";   
 
     static {
         try {
